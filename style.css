@@ -1,0 +1,233 @@
+
+
+/*#jumbotron1 {
+	background-image: url(code1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 200px;
+	height: 662px;
+	color: white;
+	padding-top: 250px;
+	padding-bottom: 750px;
+}*/
+
+
+/*footer	{
+	height: 150px;
+	color: #000;
+	background-color: #FF5E00;
+	padding-top: 20px;
+	background-attachment: fixed;
+}
+
+footer img {
+	padding:15px;
+	text-decoration: none;
+}*/
+
+div#about {
+	background-image: url(img/ari.jpg);
+		
+	background-size: cover;
+	padding-top: 900px;
+	height: 300px;
+	color: white;
+	padding-top: 50px;
+}
+
+div#portfolio {
+	background-image: url(img/portfolio.jpg);
+	background-size: cover;
+	padding-top: 900px;
+	height: 300px;
+	color: white;
+	padding-top: 50px;
+}
+
+div#resume {
+	background-image: url(img/codefix.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 200px;
+	height: 300px;
+	color: white;
+	padding-top: 50px;
+}
+
+
+
+
+/*=================================menyatu=====================*/
+
+/*html {
+	position: relative;
+}*/
+
+/*body {
+	margin-bottom: 0px;
+	margin-top: 50px;
+}*/
+	/*margin-top: 50px; 
+/*}*/
+
+/*.header {
+	background-image: url(code1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	height: 500px;
+}*/
+
+/*div.bg {
+	background-image: url(code1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 100px;
+	height: 500px;
+	color: white;
+	margin-bottom: 0px;
+	filter: brightness(40%);
+	overflow: hidden !important;
+	padding-top: 10px;
+}*/
+
+#jumbotron1 {
+	background-image: url(img/codefix.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 100px;
+	height: 500px;
+	color: white;
+	margin-bottom: 0px;
+	overflow: hidden !important;
+	padding-top: 10px;
+}
+
+
+
+/*#jumbotron1 {
+	background-image: url("img/trust.png");
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 200px;
+	height: 662px;
+	color: white;
+	padding-top: 250px;
+}
+
+/*div.jumbotron {
+	
+	background-image: url("img/trust.png");
+	
+}*/
+
+
+
+/*.jumbotron {
+	height: 300px;
+	background-image: url("img/pas_foto.jpg");
+	background-size: cover;
+}*/
+
+
+
+
+
+ hr{
+	width: 250px;
+	border-top: 3px solid white;
+}
+
+/* section {
+	min-height : 600px;
+}
+
+section.collp {
+	min-height :230px;
+} */
+
+/*.portfolio {
+	background-color: #4286f4;
+}*/
+/*
+.contact {
+	min-height: 700px;
+}*/
+
+
+
+/*footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 70px;
+	background-color: #eee;
+	padding-top: 30px;
+
+}
+
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+
+}*/
+
+body{
+	font-family: Roboto;
+	/*background-color: #eee;*/
+}
+
+h1 {
+	font-color: #fff8f6;
+	
+}
+
+h2 {
+	font-color: #fff8f6;
+	
+}
+
+h3 {
+	font-color: #fff8f6;
+	
+}
+
+footer {
+	position: bottom;
+	bottom: 0;
+	width: 100%;
+	height: 70px;
+	background-color: #ffff;
+	padding-top: 30px;
+
+}
+
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+
+}
+
+
+
+.hitam {
+	background-color: #635f62;
+	/*padding-bottom: 10px;*/
+}
+
+div.kontak {
+	/*margin-bottom:20px;*/
+}
+
+.white {
+	color: white;
+}
+
+ul.lokasi {
+	padding-top: 230px;
+}
+
+
+/* ========================= Skills Bar ===================*/
+
+
+
